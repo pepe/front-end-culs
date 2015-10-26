@@ -27,3 +27,4 @@ $('button.make-blue').on('click', function (e) {
   div.animate({right: '0'}, 1000)
 })
 
+;
