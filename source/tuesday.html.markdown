@@ -17,3 +17,8 @@ title: Contemporary Front End Development - Tuesday
 - [Bootstrap](http://getbootstrap.com)
 - [Zurb Foundation](http://foundation.zurb.com)
 - [Bourbon/Neat/Bitters](http://bourbon.io)
+
+## Middleman installation
+- [Ruby installer for window](http://rubyinstaller.org/downloads)
+- [Middleman](http://middlemanapp.com)
+
